@@ -2,7 +2,7 @@ entrada1 = input().split()
 
 a = int(entrada1[0])
 b = int(entrada1[1])
-c=float(entrada1[2])
+c = float(entrada1[2])
 
 entrada2 = input().split()
 
