@@ -16,15 +16,14 @@ A Beecrowd é uma plataforma de **juízes online** com centenas de problemas div
 - Algoritmos básicos
 
 ## 🗂️ Estrutura do projeto
+```plaintext
 beecrowd-journey/
 ├── quest1000.py
 ├── quest1001.py
 ├── quest1002.py
 ├── ...
 └── README.md
-
-Cada arquivo representa uma solução individual para um problema da plataforma, nomeado pelo número do problema (ex: `1001.py`).
-
+```
 ## ▶️ Como executar
 
 ```bash
