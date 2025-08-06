@@ -27,11 +27,12 @@ Cada arquivo representa uma solução individual para um problema da plataforma,
 
 ## ▶️ Como executar
 
-1. Clone o repositório:
-bash
-`git clone https://github.com/Gabriel-afk-9/beecrowd-journey.git
-cd beecrowd-journey`
- 
-2. Excute o exercicio desejado:
-python quest1001.py
+```bash
+# Clone o repositório:
+git clone https://github.com/Gabriel-afk-9/beecrowd-journey.git
 
+# Acesse a pasta:
+cd beecrowd-journey
+
+# Execute o arquivo desejado:
+python quest1001.py
