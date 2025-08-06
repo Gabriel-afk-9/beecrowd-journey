@@ -2,9 +2,10 @@
 
 Este repositório reúne minha jornada de resolução de problemas na plataforma [Beecrowd](https://www.beecrowd.com.br/), com foco em **lógica de programação**, **estruturas de dados** e **algoritmos fundamentais**. Todos os exercícios foram resolvidos utilizando **Python**.
 
-## 📘 Sobre a Beecrowd
+## 🐝 Perfil Beecrowd
 
-A Beecrowd é uma plataforma de **juízes online** com centenas de problemas divididos por níveis e categorias, usada por universidades, olimpíadas e desenvolvedores para praticar programação competitiva.
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-blue)](https://judge.beecrowd.com/en/profile/1164764)
+
 
 ## 🧠 Temas abordados
 
