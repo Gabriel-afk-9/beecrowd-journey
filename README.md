@@ -2,9 +2,10 @@
 
 Este repositório reúne minha jornada de resolução de problemas na plataforma [Beecrowd](https://www.beecrowd.com.br/), com foco em **lógica de programação**, **estruturas de dados** e **algoritmos fundamentais**. Todos os exercícios foram resolvidos utilizando **Python**.
 
-## 📘 Sobre a Beecrowd
+## 🐝 Perfil Beecrowd
 
-A Beecrowd é uma plataforma de **juízes online** com centenas de problemas divididos por níveis e categorias, usada por universidades, olimpíadas e desenvolvedores para praticar programação competitiva.
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-blue)](https://judge.beecrowd.com/en/profile/1164764)
+
 
 ## 🧠 Temas abordados
 
@@ -16,22 +17,22 @@ A Beecrowd é uma plataforma de **juízes online** com centenas de problemas div
 - Algoritmos básicos
 
 ## 🗂️ Estrutura do projeto
+```plaintext
 beecrowd-journey/
 ├── quest1000.py
 ├── quest1001.py
 ├── quest1002.py
 ├── ...
 └── README.md
-
-Cada arquivo representa uma solução individual para um problema da plataforma, nomeado pelo número do problema (ex: `1001.py`).
-
+```
 ## ▶️ Como executar
 
-1. Clone o repositório:
-bash
-`git clone https://github.com/Gabriel-afk-9/beecrowd-journey.git
-cd beecrowd-journey`
- 
-2. Excute o exercicio desejado:
-python quest1001.py
+```bash
+# Clone o repositório:
+git clone https://github.com/Gabriel-afk-9/beecrowd-journey.git
 
+# Acesse a pasta:
+cd beecrowd-journey
+
+# Execute o arquivo desejado:
+python quest1001.py
