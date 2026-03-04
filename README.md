@@ -1,4 +1,4 @@
-# 💻 Beecrowd Journey | Python | Js/Ts
+# 💻 Beecrowd Journey | Python | JavaScript
 
 Este repositório reúne minha jornada de resolução de problemas na plataforma [Beecrowd](https://www.beecrowd.com.br/), com foco em **lógica de programação**, **estruturas de dados** e **algoritmos fundamentais**
 
